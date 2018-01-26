@@ -1,4 +1,7 @@
-# Mohit Mahana
-Sr. Software Engineer Nagarro
+riturajratan.github.io
+======================
 
-for more go to https://mohitmahana@github.io
+My Github Pages , Which tells more about me 
+
+
+<a href="http://www.mohitmahana.github.io" target="_blank">Mohit Mahana</a>

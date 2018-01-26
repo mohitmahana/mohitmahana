@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Mohit Mahana
+tagline:          Living in the world to share quality knowledge ;)
+url:              http://mohitmahana.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           Rituraj Ratan
+  url:            https://twitter.com/ratanrituraj
+  email:          riturajratan@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/mohitmahana.github.io
